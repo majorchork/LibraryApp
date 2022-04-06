@@ -1,0 +1,4 @@
+*.http
+*.idea
+*.env
+tmp
